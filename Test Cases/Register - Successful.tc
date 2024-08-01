@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Register - Successful</name>
+   <tag>reqres</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>8b8d5dd6-b25d-43c0-b2d3-1934bc600ccd</testCaseGuid>
+</TestCaseEntity>

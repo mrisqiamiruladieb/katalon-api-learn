@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC02</name>
+   <tag>azure</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b595df8-fc4e-425f-859b-ce6d73563922</testCaseGuid>
+</TestCaseEntity>
